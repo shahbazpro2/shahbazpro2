@@ -35,7 +35,7 @@ I'm **Muhammad Shahbaz**, a passionate **Full Stack Software Engineer** based in
 
 ### 📊 GitHub Stats
 
-<img align="left" alt="Shahbaz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shahbazpro2&show_icons=true&theme=default&count_private=true&hide_border=true" />
+<img align="left" alt="Shahbaz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shahbazpro2&show_icons=true&bg_color=00000000)" />
 <br /><br /><br /><br /><br /><br /><br /><br />
 
 ---
